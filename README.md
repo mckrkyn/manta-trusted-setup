@@ -6,16 +6,11 @@
 ## Kurulum tamamlandıktan sonra twitter ve mail adresimizi giriyoruz ve çıktıyı kaydediyoruz
 
 
-![image](https://user-images.githubusercontent.com/101149671/195415190-9f6e8b27-3269-4f19-8c2f-710a1b7e7524.png)
-
-
 ##  Çıktıyı aldıktan sonra form dolduruyoruz: [Link](https://mantanetwork.typeform.com/TrustedSetup)
 
  * Sunucuda girdiğimiz ve çıktıda verilen bilgilerle birebir aynı olmalı
  * Formda KMA adresi isteyecek, polkadot cüzdanı sağ üstte ayarlardan seçiyoruz calamari adresini
  * contribute daha açılmadı açıldığında 2 flood olarak paylaşırım.
-
-![image](https://user-images.githubusercontent.com/101149671/195416025-6596a911-f12d-4ca1-9830-0ed33620f11b.png)
 
 
 ## Manuel:
