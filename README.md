@@ -2,28 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/101149671/195413725-5104a7f2-83b9-4c41-ad42-f91c51abbb0d.png)
 
-## Sistem gereksinimleri:
-```
-Nefes alsın yeter
-```
-
-
-
-## Scirpt kurulumu (Hata alan olursa manuel kurulum aşağıda)
-
- * Ekip duyurusu: Katılan herkes için özel bir NFT almaya ve resmi Discord Kanalımızda özel bir unvan almaya hak kazanırsınız
- * Discord [linki](https://discord.gg/QTp6VhYm)
-
-```
-curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/Manta-Network/manta-rs/main/tools/install.sh | sh
-```
-
-```
-source ~/.profile
-```
 
 ## Kurulum tamamlandıktan sonra twitter ve mail adresimizi giriyoruz ve çıktıyı kaydediyoruz
-
 
 
 ![image](https://user-images.githubusercontent.com/101149671/195415190-9f6e8b27-3269-4f19-8c2f-710a1b7e7524.png)
